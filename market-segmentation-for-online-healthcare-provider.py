@@ -27,7 +27,7 @@ from sklearn.metrics.pairwise import cosine_similarity
 # In[5]:
 
 
-data = pd.read_csv('C:/Users/vedka/Downloads/india-districts-census-2011.csv')
+data = pd.read_csv('india-districts-census-2011.csv')
 data.head()
 
 
